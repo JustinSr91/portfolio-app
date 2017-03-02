@@ -1,0 +1,174 @@
+
+body {
+  height: 1095px;
+}
+
+.aboutContent {
+  display: block;
+  background: rgba(52, 152, 219,0.7);
+  color: #fff;
+  height: 1095px;
+  font-size: 40px;
+  margin: 0;
+  min-height: 65%;
+  min-width: 100%;
+  padding-top: 300px;
+  position: absolute;
+  text-align: center;
+  width: 900px;
+}
+
+.blogContent {
+  display: block;
+  margin: 0 auto 0 auto;
+  text-align: center;
+  width: 600px;
+}
+
+.blogDate {
+  margin-top: 1px;
+  text-align: center;
+}
+
+.blogHeading {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 800;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.blogTitle {
+  margin-bottom: 1px;
+  text-align: center;
+}
+
+.container-bio {
+  color: white;
+  position: relative;
+  width: 900px;
+  margin: 20px auto 30px auto;
+}
+
+.header {
+  height: 50px;
+  margin-bottom: 15px;
+}
+
+.headerText {
+  font-family: helvetica;
+  font-size: 44px;
+  font-weight: 300;
+  padding: 10px 0 0 10px;
+  text-align:left;
+}
+
+.headshot__section {
+  display: block;
+}
+
+.infoDiv1 {
+  color: rgba(236, 240, 241,1.0);
+  display: block;
+  margin: 30px auto 10px auto;
+  margin-top: 30px;
+  max-width: 50%;
+  position: relative;
+  text-align: center;
+}
+
+.infoDiv2 {
+  display: block;
+  min-width: 100%;
+}
+
+.infoHeading {
+
+}
+
+.socialLink {
+  color: white;
+  display: inline-block;
+  font-size: 16px;
+  list-style: none;
+  margin-bottom: 4px;
+  margin-right: 8px;
+  text-decoration: none;
+}
+
+.infoList {
+  display: inline-block;
+  font-size: 22px;
+  list-style: none;
+  margin-bottom: 4px;
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+  position: relative;
+}
+
+.navLink {
+  color: darkred;
+  margin-right: 5px;
+  position: relative;
+  text-decoration: none;
+}
+
+.navLink-resume {
+  color: blue;
+  margin-right: 5px;
+  position: relative;
+  text-decoration: none;
+}
+
+.p-bio {
+  font-size: 18px;
+  margin-bottom: 80px;
+  margin-top: 50px;
+}
+
+/* Head shot photo */
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+
+.project-description {
+  margin: 5px auto 25px auto;
+  width: 400px;
+  text-align: center;
+}
+
+.projectLink {
+  color: blue;
+  list-style: none;
+  text-decoration: none;
+}
+
+.projectList {
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+.projectsHeading {
+  font-size: 20px;
+  margin-left: 0;
+  padding: 25px 0 25px 0;
+}
+
+.project-screenshot {
+  width: 400px;
+  border-style: ridge;
+  border-color: darkred;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.quickInfo {
+  text-align: center;
+}
